@@ -10,11 +10,9 @@
     <body>
         <h1>Hello from Québec... </h1>
         <p>It's currently {{ date('h:i A') }}.</p>
-        <h2>...and hello from Orlins city ! </h2>
-        <p>It's currently {{ date('h:i A') }}</p>
 
     <footer>
-        <p>&copy; Copyright {{ date('Y') }} &middot; <a href="#">About Us</a> </p>
+        <p>&copy; Copyright {{ date('Y') }} &middot; <a href="/about-us">About Us</a> </p>
     </footer>
     </body>
 </html>
