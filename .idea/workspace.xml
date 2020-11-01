@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7a3fa3e0-2d30-4e0c-879a-7e4a87cdf6aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/about.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,11 +169,17 @@
       <workItem from="1603764480853" duration="17000" />
       <workItem from="1603765232265" duration="1017000" />
       <workItem from="1603831368402" duration="1287000" />
-      <workItem from="1604241846344" duration="323000" />
+      <workItem from="1604241846344" duration="2262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="292" width="618" height="522" key="find.popup" timestamp="1604243477449">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="220" y="292" width="618" height="522" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1604243477449" />
   </component>
 </project>
